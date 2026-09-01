@@ -1,5 +1,5 @@
 <!--
-Title: Customer Support Email Automation System | Langchain/Langgraph Integration
+Title: Customer Support Email Automation System 
 Description: Automate customer support emails with our system built using Langchain/Langgraph. Features include email categorization, query synthesis, draft email creation, and email verification.
 Keywords: Customer support automation, email automation, Langchain, Langgraph, AI email agents, Gmail API, Python email automation, email categorization, email verification, AI agents, AI tools
 Author: jibitesh jena
@@ -166,4 +166,4 @@ We welcome contributions! Feel free to:
 
 ## Contact
 
-For questions or suggestions, reach out at **jibitesh.jena@gmail.com**
+For questions or suggestions, reach out at **jibitesh.jena.work@gmail.com**
